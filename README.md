@@ -9,16 +9,16 @@
 
 ## Objectives
 - [x] Learn to test-drive a Repository class method to SELECT a single record from the database.
-- [x] Design and create a table for the following user stories:
-- [x] As a food lover,  
-      So I can stay organised and decide what to cook,  
-      I'd like to keep a list of all my recipes with their names.
-- [x] As a food lover,  
-      So I can stay organised and decide what to cook,  
-      I'd like to keep the average cooking time (in minutes) for each recipe.
-- [x] As a food lover,  
-      So I can stay organised and decide what to cook,  
-      I'd like to give a rating to each of the recipes (from 1 to 5).
+- [x] Design and create a table for the following user stories:  
+  - [x] As a food lover,  
+        So I can stay organised and decide what to cook,  
+        I'd like to keep a list of all my recipes with their names.
+  - [x] As a food lover,  
+        So I can stay organised and decide what to cook,  
+        I'd like to keep the average cooking time (in minutes) for each recipe.
+  - [x] As a food lover,  
+        So I can stay organised and decide what to cook,  
+        I'd like to give a rating to each of the recipes (from 1 to 5).
 - [x] Create a seeds/recipes.sql.
 - [x] Test-drive a Recipe class that has attributes for each column in your table.
 - [x] Test-drive a RecipeRepository class that has all and find methods.
