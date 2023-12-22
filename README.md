@@ -1,4 +1,4 @@
-# Book Store Database
+# Recipe Directory Database
 
 ## Introduction
 - This is a challenge in Makers Module 3 - Databases
